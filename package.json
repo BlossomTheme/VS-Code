@@ -1,0 +1,21 @@
+{
+  "name": "Blossom",
+  "displayName": "Blossom",
+  "description": "A vibant Color Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blossom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blossom-color-theme.json"
+      }
+    ]
+  }
+}
