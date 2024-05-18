@@ -1,0 +1,21 @@
+{
+  "name": "blossomtheme",
+  "displayName": "BlossomTheme",
+  "description": "Blossom Theme for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blossom Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blossom Theme-color-theme.json"
+      }
+    ]
+  }
+}
