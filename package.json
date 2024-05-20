@@ -2,6 +2,7 @@
   "name": "blossomtheme",
   "displayName": "BlossomTheme",
   "description": "Blossom Theme for VS Code",
+  "publisher": "BlossomTheme",
   "version": "0.0.1",
   "icon": "./images/logo.png",
   "repository": {
