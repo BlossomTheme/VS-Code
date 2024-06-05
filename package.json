@@ -3,7 +3,7 @@
   "displayName": "BlossomTheme",
   "description": "Blossom Theme for VS Code",
   "publisher": "blossomtheme",
-  "version": "0.1.0",
+  "version": "0.0.2",
   "icon": "./images/logo.png",
   "repository": {
     "type": "git",
